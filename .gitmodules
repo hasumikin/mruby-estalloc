@@ -1,0 +1,6 @@
+[submodule "estalloc"]
+	path = estalloc
+	url = https://github.com/picoruby/estalloc
+[submodule "mruby"]
+	path = mruby
+	url = https://github.com/mruby/mruby
